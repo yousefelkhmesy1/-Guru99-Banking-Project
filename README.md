@@ -1,32 +1,69 @@
-# Guru99 Banking Program - Test Cases
+# Guru99 Banking System – Manual Testing Project
 
 ## Project Overview
-The **Guru99 Bank** project aims to provide online banking facilities to its customers.  
-This release includes limited features, and additional functionalities will be introduced in future versions.
+
+The **Guru99 Banking System** is an online banking application designed to provide essential banking services to customers.  
+This project focuses on validating the core functionalities of the system through structured manual testing.
+
+The current release includes limited features, with additional modules planned for future versions.
+
+---
 
 ## Purpose
-The purpose of this document is to outline the requirements and testing scope for the **Guru99 Banking Website**,  
-developed for **Guru99 Tech Pvt. Ltd.**
 
-This documentation will be used by all stakeholders, including **developers** and **testers**, to understand the test coverage and objectives.
+The purpose of this project is to:
 
-## Scope
-The scope of this project is limited to **functional testing** of the features described in the following sections.
+- Define the testing scope for the Guru99 Banking Website  
+- Design and execute functional test cases  
+- Validate system behavior against business requirements  
+- Identify, report, and document defects  
 
-### In Scope:
+This documentation serves as a reference for all stakeholders, including developers, testers, and project managers.
+
+---
+
+## Testing Scope
+
+### In Scope
+
+The following activities are included in this project:
+
 - Functional Testing  
-- External Interfaces  
+- Test Case Design and Execution  
+- External Interface Validation  
+- Bug Identification and Reporting  
 
-### Out of Scope:
-- Non-functional testing (e.g., stress, performance)  
-- Automation testing  
+### Out of Scope
 
-The banking site will be compatible **only with Chrome version 27 and above**.
+The following are not covered in this project:
 
-## Test Case File
-All manual test cases are documented in the following Excel file:
-- `Guru99_TestCases.xlsx`
+- Non-functional testing (Performance, Load, Stress, Security)  
+- Automation Testing  
+- Mobile application testing  
 
-## 👩‍💻 Author
-Created by **[Yousef Elkhmesy]**  
-Manual QA Tester | Guru99 Banking Project
+---
+
+## Test Environment
+
+- **Application:** Guru99 Banking Website  
+- **Browser Compatibility:** Chrome version 27 and above  
+- **Testing Type:** Manual Functional Testing  
+
+---
+
+## Deliverables
+
+This project includes the following deliverables:
+
+- Test Plan  
+- Test Scenarios  
+- Detailed Test Cases  
+- Defect Reports  
+- Test Execution Results  
+
+---
+
+## Test Case Documentation
+
+All manual test cases are documented in the Excel file:
+
